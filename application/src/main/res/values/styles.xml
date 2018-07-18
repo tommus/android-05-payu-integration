@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+  <!-- region Application -->
+
+  <style name="Ishelf"/>
+
+  <!-- endregion -->
+
+  <!-- region Widget -->
+
+  <style name="Ishelf.Widget"/>
+
+  <!-- endregion -->
+
+  <!-- region TextView -->
+
+  <style name="Ishelf.Widget.TextView"/>
+
+  <!-- endregion -->
+
+</resources>
